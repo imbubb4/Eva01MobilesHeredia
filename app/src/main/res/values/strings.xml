@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LaboratorioCalificado01</string>
+    <string name="formulario">Formulario</string>
+    <string name="nombre_alumno">Nombre: "Nombre Alumno"</string>
+    <string name="apellido_alumno">Apellido: "Apellido Alumno"</string>
+    <string name="correo_alumno">Correo: "Apellido Alumno"</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="correo">Correo</string>
+    <string name="registrar">Registrar</string>
+</resources>
